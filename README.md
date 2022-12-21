@@ -11,7 +11,7 @@
     dichas actividades tienen sus respectivas modificaciones.
 
 ###### 
-## Galería_vo.1:
+## Galería_v0.1:
 - `Encontrará un archivo ZIP el cual su contenido es una galería de 4 imágenes en la cual se incluye un Footer básico.`
 
 ###### 
